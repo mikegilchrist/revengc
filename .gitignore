@@ -1,0 +1,72 @@
+
+# === emacs ===
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+.org-id-locations
+*_archive
+*_flymake.*
+flycheck_*.el
+.projectile
+# === end emacs ===
+
+# === linux ===
+# Temp files from deleted-but-open handles
+.fuse_hidden*
+# KDE Dolphin file manager metadata
+.directory
+# Linux trash folder (can appear on any partition)
+.Trash-*
+# NFS stale file handles
+.nfs*
+# nohup default output
+nohup.out
+# === end linux ===
+
+# === os ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+tmp/
+tmp.*
+temp/
+*.tmp
+logs/
+*.log
+# === end os ===
+
+# === r ===
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Rproj.user/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+.Renviron
+Rplots.pdf
+nohup.out
+# === end r ===
